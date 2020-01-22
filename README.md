@@ -1,1 +1,1 @@
-Thi sis Isaac's first git project!
+This is Isaac's first git project!
